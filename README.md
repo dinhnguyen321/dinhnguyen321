@@ -1,14 +1,57 @@
 <h1 align="center">Hi 👋, I'm Dinh Nguyen</h1>
-<h3 align="center">A passionate frontend developer from VietNam</h3>
+<h3 align="center">A passionate Fullstack Developer from Vietnam</h3>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-daniel-tran.vercel.app/](https://portfolio-daniel-tran.vercel.app/)
+<p align="center">
+  <a href="https://portfolio-daniel-tran.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:tdinhnguyen279@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tdinhnguyen279@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-- 📫 How to reach me **tdinhnguyen279@gmail.com**
+---
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/70000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="70000" height="30" width="40" /></a>
-</p> -->
+### 🧑‍💻 About Me
+- 🎓 Student at **Van Hien University**, majoring in Software Engineering
+- 💻 Focus on **JavaScript · React · Node.js · NestJS**
+- 🧠 Familiar with **Basic Python & RAG AI**
+- 🚀 2 Internships & 2 Fullstack projects with live demos
+- 📍 Based in **Tay Ninh, Vietnam** — open to work in Ho Chi Minh City
+- ✅ Currently refreshing & strengthening my knowledge after military service
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Core Skills
+**Languages & Frameworks:**
+JavaScript · ReactJS · Node.js · NestJS · TypeScript · TypeORM · ExpressJS
+
+**Frontend:**
+HTML5 · CSS3 · TailwindCSS · Bootstrap · Vite · Responsive Design
+
+**Backend & Database:**
+REST API · MySQL · PostgreSQL · Neon API
+
+**Tools & Others:**
+Git · GitHub · Postman · Python (Basic) · RAG AI
+
+---
+
+### 📂 Featured Projects
+- **Health-Data** — User management system with auth, roles & CRUD | React + Node.js
+  🔗 Demo: https://healthdatad14.vercel.app/
+  🔗 GitHub: https://github.com/dinhnguyen321/healthdatad14
+
+- **Sports-Zone** — E-commerce platform with product catalog & cart | Fullstack
+  🔗 Demo: https://sports-zone.vercel.app/
+  🔗 GitHub: https://github.com/dinhnguyen321/client-store-page
+
+- **Portfolio** — Personal portfolio website
+  🔗 Demo: https://portfolio-daniel-tran.vercel.app/
+
+---
+
+### 📫 Connect with me
+- **Email:** tdinhnguyen279@gmail.com
+- **Portfolio:** https://portfolio-daniel-tran.vercel.app/
+- **GitHub:** https://github.com/dinhnguyen321
